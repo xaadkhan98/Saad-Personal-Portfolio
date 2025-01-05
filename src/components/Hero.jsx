@@ -1,5 +1,4 @@
 import React from "react";
-import Typical from "react-typical";
 import { TypeAnimation } from "react-type-animation";
 //Components
 import { ButtonPrimary, ButtonOutline } from "./Button";
