@@ -21,32 +21,33 @@ const reviews = [
   },
   {
     content:
-      "Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.",
-    name: "Ethan Caldwell",
-    imgSrc: "/images/people-2.jpg",
-    company: "NexaWave",
+      "Saad is an exceptional ReactJS developer! He built a sleek, responsive frontend for our product with remarkable attention to detail and functionality. Highly recommended!",
+    name: "Henry Zhou",
+    imgSrc: "/images/people-3.png",
+    company: "Mech Solutions Ltd.",
   },
   {
     content:
-      "Outstanding developer! Built a robust site with perfect functionality. Efficient and detail-oriented.",
-    name: "Liam Bennett",
-    imgSrc: "/images/people-3.jpg",
-    company: "CodeCraft",
+      "Working with Saad was a fantastic experience! He developed the frontend for our Data Science Merchandising product with precision and creativity, delivering outstanding results.",
+    name: "Usman Afridi",
+    imgSrc: "/images/people-2.png",
+    company: "JMM Technologies",
   },
   {
     content:
-      "Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.",
-    name: "Noah Williams",
-    imgSrc: "/images/people-4.jpg",
+      "Saad's skills as a junior front-end developer are incredible! He designed and implemented engaging landing pages that were both visually appealing and highly functional.",
+    name: "Hassan Amin",
+    imgSrc: "/images/people-4.png",
     company: "BrightWeb",
   },
   {
     content:
-      "Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.",
-    name: "Ava Thompson",
+      "Saad transformed my e-commerce portfolio website into a stunning, user-friendly platform. His expertise in ReactJS and frontend design is truly commendable!",
+    name: "Abdullah Khan",
     imgSrc: "/images/people-5.jpg",
-    company: "TechMosaic",
+    company: "Bluebanana Creative Agency",
   },
+
   {
     content:
       "Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.",
