@@ -17,7 +17,7 @@ const About = () => {
       <div className="container">
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[80ch]">
-            Welcome! I'm a <b>Saad Khan</b>, a professional Front-End/React.js
+            Welcome! I'm <b>Saad Khan</b>, a professional Front-End/React.js
             Developer with a passion for building visually stunning and highly
             functional websites. With expertise in HTML, CSS, JavaScript,
             React.js, Next.js, and tools like Figma and Bootstrap, I specialize
